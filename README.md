@@ -5,19 +5,17 @@
 
 - 🧐 I am currently learning **SwiftUI, Arduino, and Machine Learning.**
 
-- 💼 My most recent project is **[Robert Compass iOS Application](https://github.com/CanDuru4/RobertCompass)**
+- 💼 My most recent project is **[BeyanKontrol]**
 
 - 📚 My book is available at [Kitapyurdu](https://www.kitapyurdu.com/kitap/gelecegin-habercisi/644115.html)
 
-- 📝 I regularly write articles on [Gelecek Burada](gelecekburada.net/author/canduru)
+- 📝 My articles are on [Gelecek Burada](gelecekburada.net/author/canduru)
 
-- 💬 Ask me about **Swift, Firebase, iOS, and website development.**
+- 💬 Ask me about **Swift, Python, iOS, and website development.**
 
 - 📞 How to reach me **support@canduru.net, [canduru.net](canduru.net)**
 
 - 📄 Know about my experiences [canduru.net](canduru.net)
-
-- 🐶 Fun fact **I have two German Shepherd dogs.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
