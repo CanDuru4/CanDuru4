@@ -129,6 +129,11 @@ Computer Science @ Penn Engineering · Wharton · AI Product Engineering · Pyth
 
 ### GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=canduru4&show_icons=true&locale=en" alt="Can Duru GitHub Stats" />
+<p>
+  <img
+    height="180"
+    align="center"
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=canduru4&layout=compact&langs_count=8"
+    alt="Can Duru Top Languages"
+  />
 </p>
