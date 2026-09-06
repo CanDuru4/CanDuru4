@@ -26,7 +26,7 @@ Computer Science @ Penn Engineering · Wharton · AI Product Engineering · Pyth
 
 - 💬 Ask me about **Python, full-stack AI, AI agents, backend systems, automation, cloud infrastructure, and product engineering**.
 
-- 📫 Reach me at **canduru@seas.upenn.edu** or [canduru.net](https://canduru.net)
+- 📫 Reach me at **canduru@engineering.upenn.edu** or [canduru.net](https://canduru.net)
 
 - 📄 More about my experience: [canduru.net](https://canduru.net)
 
