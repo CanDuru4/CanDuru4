@@ -124,7 +124,6 @@ Computer Science @ Penn Engineering · Wharton · AI Product Engineering · Pyth
 
 - **BeyanKontrol** · Full-stack AI document-processing platform using OCR, AI pipelines, FastAPI, PostgreSQL, Redis, S3-compatible storage, Docker, Kubernetes, Jenkins, and Nginx.
 - **Cloud & AI Infrastructure** · Built Kubernetes services, REST APIs, CI/CD pipelines, Hugging Face security tooling, and GPU infrastructure at ICT Bulut Bilişim / Sabancı Holding.
-- **Client Operations Dashboards** · Internal KPI, reporting, and workflow dashboards built for consulting clients (private repositories).
 - **[Robert Compass](https://github.com/CanDuru4/RobertCompass)** · Swift and Firebase application for student orientation, navigation, and onboarding.
 - **[Smart City: Edinburgh](https://github.com/CanDuru4/Smart-City-Edinburgh)** · Swift iOS app for live bus tracking, journey routing, and NFC travel cards.
 - **Smart Parking** · Computer-vision parking system using OpenCV, Raspberry Pi, ultrasonic sensors, and embedded hardware.
