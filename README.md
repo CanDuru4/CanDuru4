@@ -28,7 +28,7 @@ Computer Science @ Penn Engineering · Wharton · AI Product Engineering · Pyth
 
 - 📫 Reach me at **canduru@engineering.upenn.edu** or [canduru.net](https://canduru.net)
 
-- 📄 More about my experience: [canduru.net](https://canduru.net)
+- 📄 More about my experience: [canduru.net/experience](https://canduru.net/experience)
 
 
 <h3 align="left">Connect with me:</h3>
@@ -37,7 +37,7 @@ Computer Science @ Penn Engineering · Wharton · AI Product Engineering · Pyth
 <a href="https://linkedin.com/in/can-duru-04" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="can-duru-04" height="30" width="40" />
 </a>
-<a href="https://www.youtube.com/c/safenet4all" target="blank">
+<a href="https://www.youtube.com/@safenet4all" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="safenet4all" height="30" width="40" />
 </a>
 <a href="https://stackoverflow.com/users/17801843" target="blank">
@@ -63,6 +63,10 @@ Computer Science @ Penn Engineering · Wharton · AI Product Engineering · Pyth
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+</a>
+
+<a href="https://react.dev/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
 </a>
 
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
@@ -105,6 +109,10 @@ Computer Science @ Penn Engineering · Wharton · AI Product Engineering · Pyth
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 </a>
 
+<a href="https://www.java.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+</a>
+
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
 </a>
@@ -116,7 +124,9 @@ Computer Science @ Penn Engineering · Wharton · AI Product Engineering · Pyth
 
 - **BeyanKontrol** · Full-stack AI document-processing platform using OCR, AI pipelines, FastAPI, PostgreSQL, Redis, S3-compatible storage, Docker, Kubernetes, Jenkins, and Nginx.
 - **Cloud & AI Infrastructure** · Built Kubernetes services, REST APIs, CI/CD pipelines, Hugging Face security tooling, and GPU infrastructure at ICT Bulut Bilişim / Sabancı Holding.
-- **Robert Compass** · Swift and Firebase application for student orientation, navigation, and onboarding.
+- **Client Operations Dashboards** · Internal KPI, reporting, and workflow dashboards built for consulting clients (private repositories).
+- **[Robert Compass](https://github.com/CanDuru4/RobertCompass)** · Swift and Firebase application for student orientation, navigation, and onboarding.
+- **[Smart City: Edinburgh](https://github.com/CanDuru4/Smart-City-Edinburgh)** · Swift iOS app for live bus tracking, journey routing, and NFC travel cards.
 - **Smart Parking** · Computer-vision parking system using OpenCV, Raspberry Pi, ultrasonic sensors, and embedded hardware.
 - **Pupil Tracking** · Machine-learning and computer-vision system for hands-free media control.
 
@@ -124,7 +134,7 @@ Computer Science @ Penn Engineering · Wharton · AI Product Engineering · Pyth
 ### Writing
 
 - 📚 [Harbinger of the Future: Utopia of Technologies](https://www.kitapyurdu.com/kitap/gelecegin-habercisi/644115.html)
-- 📝 [100+ technology articles on Gelecek Burada](https://gelecekburada.net/author/canduru)
+- 📝 [100+ technology articles on AI, robotics, and cybersecurity](https://canduru.net/publications)
 
 
 ### GitHub Stats
