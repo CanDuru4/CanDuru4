@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Can Duru 🙋🏻‍♂️</h1>
+<h1 align="center">Hi, I'm Can Duru</h1>
 
 <h3 align="center">
 UPenn M&T Student Building Full-Stack AI Products
@@ -8,30 +8,30 @@ UPenn M&T Student Building Full-Stack AI Products
 Computer Science @ Penn Engineering · Wharton · AI Product Engineering · Python · Cloud & Infrastructure
 </p>
 
-- 🎓 I study **Computer Science and Wharton** through the **Jerome Fisher Program in Management & Technology at the University of Pennsylvania**.
+- I study **Computer Science and Wharton** through the **Jerome Fisher Program in Management & Technology at the University of Pennsylvania**.
 
-- 🤖 I build **full-stack AI products** combining user interfaces, backend systems, AI agents, automation, data extraction, document workflows, and real business processes.
+- I build **full-stack AI products** combining user interfaces, backend systems, AI agents, automation, data extraction, document workflows, and real business processes.
 
-- 🐍 My primary development language is **Python**, with experience across **JavaScript/TypeScript, SQL, Swift, C, and Java**.
+- My primary development language is **Python**, with experience across **JavaScript/TypeScript, SQL, Swift, C, and Java**.
 
-- 💼 I currently work across **operations optimization and AI consulting**, building AI-enabled workflows, process automation, KPI systems, and implementation strategies at **Krystal Opportunity I LLC** and **Lotus AI**.
+- I currently work across **operations optimization and AI consulting**, building AI-enabled workflows, process automation, KPI systems, and implementation strategies at **Krystal Opportunity I LLC** and **Lotus AI**.
 
-- ☁️ Previously, I worked on **cloud and AI infrastructure at ICT Bulut Bilişim / Sabancı Holding**, building Kubernetes services, REST APIs, CI/CD pipelines, AI security tooling, and GPU infrastructure.
+- Previously, I worked on **cloud and AI infrastructure at ICT Bulut Bilişim / Sabancı Holding**, building Kubernetes services, REST APIs, CI/CD pipelines, AI security tooling, and GPU infrastructure.
 
-- 🧩 One of my projects is **BeyanKontrol**, a full-stack AI document-processing system using OCR and AI to analyze customs and logistics documents.
+- One of my projects is **BeyanKontrol**, a full-stack AI document-processing system using OCR and AI to analyze customs and logistics documents.
 
-- 📚 I am the author of **Harbinger of the Future: Utopia of Technologies**, a book about emerging technologies including AI, robotics, and cybersecurity.
+- I am the author of **Harbinger of the Future: Utopia of Technologies**, a book about emerging technologies including AI, robotics, and cybersecurity.
 
-- 📝 I have published **100+ technology articles** covering AI, robotics, cybersecurity, and emerging technologies.
+- I have published **100+ technology articles** covering AI, robotics, cybersecurity, and emerging technologies.
 
-- 💬 Ask me about **Python, full-stack AI, AI agents, backend systems, automation, cloud infrastructure, and product engineering**.
+- Ask me about **Python, full-stack AI, AI agents, backend systems, automation, cloud infrastructure, and product engineering**.
 
-- 📫 Reach me at **canduru@engineering.upenn.edu** or [canduru.net](https://canduru.net)
+- Reach me through [canduru.net](https://canduru.net)
 
-- 📄 More about my experience: [canduru.net/experience](https://canduru.net/experience)
+- More about my experience: [canduru.net/experience](https://canduru.net/experience)
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 
 <p align="left">
 <a href="https://linkedin.com/in/can-duru-04" target="blank">
@@ -49,7 +49,7 @@ Computer Science @ Penn Engineering · Wharton · AI Product Engineering · Pyth
 </p>
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and tools</h3>
 
 <p align="left">
 
@@ -120,7 +120,7 @@ Computer Science @ Penn Engineering · Wharton · AI Product Engineering · Pyth
 </p>
 
 
-### Selected Work
+### Selected work
 
 - **BeyanKontrol** · Full-stack AI document-processing platform using OCR, AI pipelines, FastAPI, PostgreSQL, Redis, S3-compatible storage, Docker, Kubernetes, Jenkins, and Nginx.
 - **Cloud & AI Infrastructure** · Built Kubernetes services, REST APIs, CI/CD pipelines, Hugging Face security tooling, and GPU infrastructure at ICT Bulut Bilişim / Sabancı Holding.
@@ -132,11 +132,11 @@ Computer Science @ Penn Engineering · Wharton · AI Product Engineering · Pyth
 
 ### Writing
 
-- 📚 [Harbinger of the Future: Utopia of Technologies](https://www.kitapyurdu.com/kitap/gelecegin-habercisi/644115.html)
-- 📝 [100+ technology articles on AI, robotics, and cybersecurity](https://canduru.net/publications)
+- [Harbinger of the Future: Utopia of Technologies](https://www.kitapyurdu.com/kitap/gelecegin-habercisi/644115.html)
+- [100+ technology articles on AI, robotics, and cybersecurity](https://canduru.net/publications)
 
 
-### GitHub Stats
+### GitHub stats
 
 <p>
   <img
